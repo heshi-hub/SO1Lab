@@ -19,3 +19,6 @@ This lab focuses on arrays and pointer manipulation.
  🚀 How to Run
 1. Compile the project
 2. Run the program
+
+ 👤 Author Heshini Jayaweera
+🔗 GitHub: [https://github.com/heshi-hub/SO1Lab/tree/main/Lab4](https://github.com/heshi-hub/SO1Lab/tree/main/Lab4)
