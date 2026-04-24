@@ -20,3 +20,6 @@ This lab introduces dynamic memory and structures in C.
  🚀 How to Run
 1. Build project
 2. Execute main program
+
+ 👤 Author Heshini Jayaweera 
+🔗 GitHub: [https://github.com/heshi-hub/SO1Lab/tree/main/Lab5](https://github.com/heshi-hub/SO1Lab/tree/main/Lab5)
