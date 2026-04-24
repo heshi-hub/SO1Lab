@@ -19,3 +19,7 @@ This lab focuses on control structures such as loops and conditionals.
  🚀 How to Run
 1. Open project in Visual Studio
 2. Build and execute
+
+ 👤 Author
+Heshini Jayaweera
+🔗 GitHub: [https://github.com/heshi-hub/SO1Lab/tree/main/Lab2](https://github.com/heshi-hub/SO1Lab/tree/main/Lab2)
