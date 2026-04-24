@@ -19,3 +19,6 @@ This lab introduces modular programming using functions.
  🚀 How to Run
 1. Build project
 2. Execute main function
+
+ 👤 Author Heshini Jayaweera 
+🔗 GitHub: [https://github.com/heshi-hub/SO1Lab/tree/main/Lab3](https://github.com/heshi-hub/SO1Lab/tree/main/Lab3)
